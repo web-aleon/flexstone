@@ -85,14 +85,14 @@ h2 {
   margin-top: 0;
   margin-bottom: 0;
   padding: 25px 0;
-  font-size: 45px;
+  font-size: 35px;
   line-height: 45px;
   font-weight: normal;
 }
 
 @media (max-width: 991px) {
   h2 {
-    font-size: 35px;
+    font-size: 30px;
     line-height: 35px;
     padding: 20px 0;
   }
@@ -262,8 +262,8 @@ header .callback {
 }
 
 header .phone {
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 30px;
+  line-height: 30px;
   font-weight: 500;
 }
 
@@ -282,7 +282,7 @@ header .phone {
 }
 
 header .wbh_btn {
-  padding: 12px 15px;
+  padding: 8px 15px;
   margin-left: 31px;
   border: 1px solid #e17814;
   border-radius: 5px;
@@ -300,8 +300,8 @@ header .wbh_btn {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  font-size: 30px;
-  line-height: 24px;
+  font-size: 24px;
+  line-height: 22px;
   font-weight: 500;
 }
 
@@ -364,8 +364,8 @@ header .wbh_btn {
 
 @media (max-width: 991px) {
   #home h1 {
-    font-size: 60px;
-    line-height: 50px;
+    font-size: 70px;
+    line-height: 70px;
   }
 }
 
@@ -383,7 +383,7 @@ header .wbh_btn {
 
 @media (max-width: 991px) {
   #home h1 span {
-    font-size: 45px;
+    font-size: 55px;
   }
 }
 
@@ -406,13 +406,13 @@ header .wbh_btn {
 #sostav p {
   margin-top: 64px;
   margin-bottom: 64px;
-  font-size: 24px;
+  font-size: 22px;
 }
 
 @media (max-width: 991px) {
   #sostav p {
     margin: 40px 0;
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
@@ -491,7 +491,7 @@ header .wbh_btn {
 #sostav article h3 {
   margin-top: 0;
   margin-bottom: 25px;
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 30px;
 }
@@ -525,7 +525,7 @@ header .wbh_btn {
 #sostav img {
   width: 100%;
   height: auto;
-  margin-top: 63px;
+  margin-top: 53px;
 }
 
 @media (max-width: 1199px) {
@@ -719,7 +719,7 @@ header .wbh_btn {
 }
 
 #production p {
-  font-size: 26px;
+  font-size: 22px;
   margin-top: 12px;
   margin-bottom: 0;
 }
@@ -817,7 +817,7 @@ header .wbh_btn {
 #usage article h3 {
   margin-top: 0;
   margin-bottom: 23px;
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 30px;
 }
@@ -840,12 +840,12 @@ header .wbh_btn {
 
 #usage article p {
   margin: 0;
-  font-size: 25px;
+  font-size: 22px;
 }
 
 @media (max-width: 991px) {
   #usage article p {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
@@ -965,14 +965,14 @@ header .wbh_btn {
 }
 
 #usingalso p {
-  font-size: 34px;
+  font-size: 22px;
   margin-top: 12px;
   margin-bottom: 0;
 }
 
 @media (max-width: 1199px) {
   #usingalso p {
-    font-size: 26px;
+    font-size: 20px;
   }
 }
 
@@ -983,7 +983,7 @@ header .wbh_btn {
 }
 
 #usingalso .textcontainer {
-  margin-top: 100px;
+  margin-top: 60px;
   text-align: left;
 }
 
@@ -1014,13 +1014,13 @@ header .wbh_btn {
 
 #optimal p.desc {
   margin-top: 40px;
-  margin-bottom: 55px;
-  font-size: 36px;
+  margin-bottom: 40px;
+  font-size: 24px;
 }
 
 @media (max-width: 991px) {
   #optimal p.desc {
-    font-size: 26px;
+    font-size: 22px;
   }
 }
 
@@ -1033,7 +1033,7 @@ header .wbh_btn {
 }
 
 #optimal h3 {
-  font-size: 36px;
+  font-size: 30px;
   font-weight: normal;
   margin-top: 0;
   margin-bottom: 0;
@@ -1041,7 +1041,7 @@ header .wbh_btn {
 
 @media (max-width: 991px) {
   #optimal h3 {
-    font-size: 30px;
+    font-size: 28px;
   }
 }
 
@@ -1064,12 +1064,12 @@ header .wbh_btn {
 
 #optimal article .text p {
   text-align: left;
-  font-size: 25px;
+  font-size: 22px;
 }
 
 @media (max-width: 1199px) {
   #optimal article .text p {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
@@ -1085,7 +1085,7 @@ header .wbh_btn {
 }
 
 #optimal article.bigimg {
-  margin-top: 55px;
+  margin-top: 40px;
   margin-bottom: 100px;
 }
 
@@ -1186,13 +1186,14 @@ header .wbh_btn {
 }
 
 #optimal .priceblock .text {
-  font-size: 25px;
+  font-size: 22px;
   margin: 0 0 35px;
 }
 
 @media (max-width: 991px) {
   #optimal .priceblock .text {
-    font-size: 22px;
+    font-size: 20px;
+    margin-bottom: 10px;
   }
 }
 
@@ -1207,14 +1208,14 @@ header .wbh_btn {
 #optimal .priceblock .days {
   margin: 30px 0 0;
   padding-left: 30px;
-  font-size: 44px;
+  font-size: 35px;
   color: #d00f0f;
 }
 
 @media (max-width: 991px) {
   #optimal .priceblock .price,
   #optimal .priceblock .days {
-    font-size: 35px;
+    font-size: 30px;
   }
 }
 
@@ -1244,12 +1245,12 @@ header .wbh_btn {
 #maximum p.desc {
   margin-top: 50px;
   margin-bottom: 80px;
-  font-size: 33px;
+  font-size: 24px;
 }
 
 @media (max-width: 1191px) {
   #maximum p.desc {
-    font-size: 26px;
+    font-size: 22px;
   }
 }
 
@@ -1269,7 +1270,7 @@ header .wbh_btn {
 }
 
 #maximum h3 {
-  font-size: 33px;
+  font-size: 30px;
   font-weight: normal;
   margin-top: 0;
   margin-bottom: 60px;
@@ -1325,7 +1326,7 @@ header .wbh_btn {
 }
 
 #maximum article .text {
-  max-width: 610px;
+  max-width: 500px;
 }
 
 @media (max-width: 1199px) {
@@ -1342,12 +1343,12 @@ header .wbh_btn {
 
 #maximum article .text p {
   text-align: left;
-  font-size: 26px;
+  font-size: 22px;
 }
 
 @media (max-width: 1199px) {
   #maximum article .text p {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
@@ -1367,11 +1368,16 @@ header .wbh_btn {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 550px;
 }
 
 @media (max-width: 1199px) {
   #maximum article .img {
-    max-width: 450px;
+    width: 450px;
   }
 }
 
@@ -1382,25 +1388,21 @@ header .wbh_btn {
     -webkit-flex-direction: row;
         -ms-flex-direction: row;
             flex-direction: row;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-        -ms-flex-align: center;
-            align-items: center;
     -webkit-justify-content: space-around;
         -ms-flex-pack: distribute;
             justify-content: space-around;
-    max-width: 100%;
+    width: 100%;
   }
 }
 
 #maximum article .img img {
   height: auto;
-  width: auto;
+  max-width: 450px;
 }
 
 @media (max-width: 1199px) {
   #maximum article .img img {
-    width: 100%;
+    max-width: 450px;
   }
 }
 
@@ -1421,28 +1423,26 @@ header .wbh_btn {
 }
 
 #maximum .priceblock .text {
-  font-size: 33px;
+  font-size: 22px;
   margin: 0 0 35px;
-  padding-left: 30px;
 }
 
 @media (max-width: 1191px) {
   #maximum .priceblock .text {
-    font-size: 26px;
+    font-size: 22px;
   }
 }
 
 @media (max-width: 991px) {
   #maximum .priceblock .text {
-    font-size: 24px;
-    margin-bottom: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
   }
 }
 
 @media (max-width: 767px) {
   #maximum .priceblock .text {
     font-size: 20px;
-    padding-left: 0;
     margin-bottom: 10px;
   }
 }
@@ -1451,7 +1451,7 @@ header .wbh_btn {
 #maximum .priceblock .days {
   margin: 30px 0 0;
   padding-left: 30px;
-  font-size: 44px;
+  font-size: 35px;
   color: #d00f0f;
 }
 
@@ -1536,8 +1536,14 @@ header .wbh_btn {
 #working .listblock .left h3 {
   margin-top: 0;
   margin-bottom: 35px;
-  font-size: 35px;
+  font-size: 30px;
   font-weight: normal;
+}
+
+@media (max-width: 991px) {
+  #working .listblock .left h3 {
+    font-size: 28px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -1566,12 +1572,12 @@ header .wbh_btn {
 }
 
 #working .listblock .left ul li {
-  font-size: 30px;
+  font-size: 24px;
 }
 
 @media (max-width: 991px) {
   #working .listblock .left ul li {
-    font-size: 24px;
+    font-size: 22px;
   }
 }
 
@@ -1597,18 +1603,18 @@ header .wbh_btn {
 
 #working p {
   margin: 0;
-  font-size: 26px;
+  font-size: 22px;
 }
 
 @media (max-width: 991px) {
   #working p {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
 @media (max-width: 767px) {
   #working p {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -1661,12 +1667,12 @@ header .wbh_btn {
 }
 
 #working p.bottom {
-  font-size: 34px;
+  font-size: 24px;
 }
 
 @media (max-width: 991px) {
   #working p.bottom {
-    font-size: 26px;
+    font-size: 22px;
   }
 }
 
@@ -1702,11 +1708,11 @@ header .wbh_btn {
 }
 
 #feedback h2 {
-  margin: 0 0 62px;
+  margin: 0 0 52px;
   padding: 0;
   background: none;
   text-shadow: 2px 2px #000;
-  font-size: 80px;
+  font-size: 65px;
   font-weight: 500;
   line-height: 80px;
   text-align: left;
@@ -1720,6 +1726,14 @@ header .wbh_btn {
   }
 }
 
+@media (max-width: 991px) {
+  #feedback h2 {
+    font-size: 55px;
+    line-height: 55px;
+    margin-bottom: 30px;
+  }
+}
+
 @media (max-width: 767px) {
   #feedback h2 {
     font-size: 45px;
@@ -1730,8 +1744,8 @@ header .wbh_btn {
 #feedback p.desc {
   margin: 0;
   text-shadow: 2px 2px #000;
-  font-size: 55px;
-  line-height: 50px;
+  font-size: 40px;
+  line-height: 40px;
   text-align: left;
 }
 
@@ -1744,15 +1758,15 @@ header .wbh_btn {
 
 @media (max-width: 991px) {
   #feedback p.desc {
-    font-size: 35px;
+    font-size: 32px;
     line-height: 32px;
   }
 }
 
 @media (max-width: 767px) {
   #feedback p.desc {
-    font-size: 28px;
-    line-height: 28px;
+    font-size: 26px;
+    line-height: 26px;
   }
 }
 
@@ -1798,7 +1812,7 @@ header .wbh_btn {
   border: none;
   color: #000;
   background-color: #fff;
-  font-size: 30px;
+  font-size: 24px;
   padding: 7px 30px;
   border-radius: 8px;
 }
@@ -1806,7 +1820,7 @@ header .wbh_btn {
 @media (max-width: 991px) {
   #feedback form input {
     width: 200px;
-    font-size: 24px;
+    font-size: 20px;
   }
 }
 
@@ -1818,7 +1832,7 @@ header .wbh_btn {
 }
 
 #feedback form button {
-  padding: 12px 15px;
+  padding: 10px 12px;
   border: 1px solid #e17814;
   border-radius: 5px;
   background-color: #ffa53d;
@@ -1837,13 +1851,13 @@ header .wbh_btn {
           align-items: center;
   font-size: 30px;
   color: #000;
-  line-height: 26px;
+  line-height: 24px;
   font-weight: 500;
 }
 
 @media (max-width: 991px) {
   #feedback form button {
-    font-size: 24px;
+    font-size: 20px;
     padding: 10px 12px;
     line-height: 20px;
   }

@@ -19,7 +19,7 @@ function modalThanks(){
 
 $(document).ready(function() {
 
-    $("#fbForm").submit(function(){
+    $(".formsend").submit(function(){
         $.ajax({
             type: "POST",
             url: "../send.php",
